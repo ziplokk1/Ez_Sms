@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EZ SMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="populating_contacts">Populating Contact List</string>
+    <string name="post_contact_population">Contact List Populated. \n Enter Host IP Address.</string>
+    <string name="enter_ip_label">Host IP Address:</string>
+    <string name="ip_hint">192.168.X.XXX</string>
+    <string name="connect_to_host_button_text">Connect</string>
+    <string name="unkown_host_status_error">Error: Unkown Host</string>
+    <string name="IO_Exception_status_error">Error: IO Exception</string>
+    <string name="menu_quit">Quit</string>
+    <string name="change_port">Change Port #</string>
+
+</resources>
